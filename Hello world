@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main ()
+{
+printf("Hello 45 days of code challenge!");
+return0;
+}
