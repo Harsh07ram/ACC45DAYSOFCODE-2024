@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main (){
+int x , y , sum ;
+printf("Enter two numbers");
+scanf("%d , %d , &x ,&y");
+printf("/naddition x+y = sum");
+return 0;
+}
